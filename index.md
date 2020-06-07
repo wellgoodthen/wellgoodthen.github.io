@@ -33,7 +33,7 @@
             <footer class="stripe__third flex-row flex-centered">
                 <!-- <button class="btn" onclick="location.href = 'mailto:contact@mainhouse.com.au';">Contact Us</button> -->
                 <button class="btn cursor btn--transparent" style="margin-right: 2rem;" onclick="window.open('https:\/\/www.annarobinson.com.au', '_blank');">Portfolio</button>
-                <button class="btn cursor btn--transparent" onclick="window.open('mailto:contact@mainhouse.com.au', '_blank');">Contact Us</button>
+                <button class="btn cursor btn--transparent" onclick="window.open('mailto:contact@mainhouse.com.au', '_blank');">Contact</button>
                                
                 
                 <!-- <div class="footer--copyright">
